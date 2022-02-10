@@ -5,15 +5,14 @@ Machine Learning Seminars
 Объявление
 ==========
 
-- Таблица с результатами в `google spreadsheets <https://docs.google.com/spreadsheets/d/1taAZjB2MOO30r9ceQJJO4f8UqL4u4CKOloVuDKZP994/edit?usp=sharing>`_.
-- Лекции и семинары в осенем семемтре закончились. Выполняйте домашнее задание. В понедельник (13.12.2021) будут оценки за семестр.
+- Семинары в весеннем семестре пока будут в дистанционном режиме по ссылке, которая указана ниже.
 
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
-- `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/j/82309900360?pwd=blJDaGU5OERJMkVHSzQyT2RxUEYvUT09>`_
+- `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/j/81766985440?pwd=UWdrbk5OYVhFdm1Jczlsc0lpZTBkQT09>`_
 - `Почта для связи. <grabovoy.av@phystech.edu>`_
 
 Осений семестр
